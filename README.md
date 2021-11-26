@@ -20,4 +20,4 @@ This USSD simulator is compatible with XML.
 ## preview
 
 
-<a href="https://ibb.co/S5j0qXJ"><img src="https://i.ibb.co/4KqMBZJ/Screenshot-at-2021-11-26-15-22-40.png" alt="Screenshot-at-2021-11-26-15-22-40" border="0"></a>
+<a href="https://ibb.co/jHHCMTq"><img src="https://i.ibb.co/cxxWF1R/Screenshot-at-2021-11-26-15-33-11.png" alt="Screenshot-at-2021-11-26-15-33-11" border="0"></a>
