@@ -3,7 +3,7 @@ $(document).ready(function () {
     let EMPTY = "";
     let NULL = null;
     let id = EMPTY;
-    let APPLICATION_URL = "http://178.170.47.215:8444/serviceussd";
+    let APPLICATION_URL = "http://178.170.47.215:8450/serviceussd";
     let HTTP_METHOD = "GET";
     let PHONE_NUMBER = "250788313531";
     let CELL_ID = "3G2343";
